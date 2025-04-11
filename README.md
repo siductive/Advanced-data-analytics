@@ -45,4 +45,4 @@ Produces a product-level summary including total units sold, revenue generated, 
 Feel free to fork this repo and contribute enhancements or more advanced analytical queries!
 
 # Contact
-For feedback or questions, you can reach me at:
+For feedback or questions, you can reach me at: siddhantjainwork.sj@gmail.com
